@@ -7,6 +7,8 @@
 	echo str_word_count($a);
 	echo "<br>";
 	echo strrev($a);
+	echo "<br>";
+	echo str_replace("e", "a", $a);
 
 
  ?>
