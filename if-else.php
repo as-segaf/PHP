@@ -3,7 +3,7 @@
 	$a  = 1;
 
 	if ($a == 1) {
-		echo "a bernilai 1";
+		echo "a bernilai $a";
 	}elseif ($a == 2) {
 		echo "a bernilai 2";
 	}else{
