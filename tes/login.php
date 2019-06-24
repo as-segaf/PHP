@@ -25,7 +25,7 @@
 				</tr>
 				<tr>
 					<td></td>
-					<td><input type="submit" name="submit" required> <a href="register.php">Buat akun</a></td>
+					<td><input type="submit" name="submit"> <a href="register.php">Buat akun</a></td>
 				</tr>
 			</table>
 		</form>
