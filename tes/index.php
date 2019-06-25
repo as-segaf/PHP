@@ -14,7 +14,6 @@
 			} else{
 				$username = $_SESSION['username'];
 			}
-
 		 ?>
 
 		 <div class="content">
